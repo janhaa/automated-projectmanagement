@@ -6,7 +6,7 @@ type Task = {
   priority: 0 | 1 | 2 | 3 | 4 | 5
 }
 
-# GPT-4 development prompt
+# GPT-4 development prompts
 
 ## Scheduling algorithm
 Assume the following types:
